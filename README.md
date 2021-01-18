@@ -1,4 +1,4 @@
-### Hi there 👋
+### Wanna know me? 👋
 
 - 👩🏻‍🔬 Ex-CERN Experimental Physicist
 - 📈 Data Science and Machine Learning Evangelist
