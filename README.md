@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**baishalidutta/baishalidutta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👩🏻‍🔬 Ex-CERN Experimental Physicist
+- 📈 Data Science and Machine Learning Evangelist
+- 👩🏻‍💻 Passionate Python and C/C++ Developer
+- 🔉 International Conference Speaker
+- 👩🏻‍🏫 Experienced in Teaching and Supervision
+- 🚗 Currently working on self-driving autonomous car built using Raspberry Pi to follow lanes, recognize traffic signs and people on the road using TensorFlow, Keras and OpenCV. Repository Coming 🔜
+- 🌱 I’m currently learning OpenCV and Transfer Learning
+- 💬 Ask me about Data Science and Machine Learning
+- ⚡ Hobby: Travel Vlogging (📹 YouTube Channel: https://www.youtube.com/lifebeyondcage)
+- 📫 Reach me at me@itsbaishali.com
+<!-- - 🤩 Fun fact: !>
