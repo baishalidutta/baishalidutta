@@ -2,6 +2,7 @@
 
 - 👩🏻‍🔬 Ex-CERN Experimental Physicist
 - 📈 Data Science and Machine Learning Evangelist
+- ⚛️ 6+ Years of Data Science Research Experience on CERN LHC Detector Data
 - 👩🏻‍💻 Passionate Python and C/C++ Developer
 - 🔉 International Conference Speaker
 - 👩🏻‍🏫 Experienced in Teaching and Supervision
