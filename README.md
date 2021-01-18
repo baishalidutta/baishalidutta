@@ -9,6 +9,6 @@
 - 🚗 Currently working on self-driving autonomous car built using Raspberry Pi to follow lanes, recognize traffic signs and people on the road using TensorFlow, Keras and OpenCV. <b>Repository Coming</b> 🔜
 - 🌱 Currently learning OpenCV and Transfer Learning
 - 💬 Ask me about Data Science and Machine Learning
-- ⚡ Hobby: Travel Vlogging (📹 YouTube Channel: https://www.youtube.com/lifebeyondcage)
+- ⚡ Hobby: Travel Vlogging (📹 YouTube Channel: [Life Beyond Cage](https://www.youtube.com/lifebeyondcage))
 - 📫 Reach me at me@itsbaishali.com
 <!-- - 🤩 Fun fact: !>
