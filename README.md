@@ -10,5 +10,5 @@
 - 🌱 Currently learning OpenCV and Transfer Learning
 - 💬 Ask me about Data Science and Machine Learning
 - ⚡ <b>Hobby</b>: Travel Vlogging ⇢ 📹 YouTube Channel: [Life Beyond Cage](https://www.youtube.com/lifebeyondcage)
-- 🤩 <b>Fun fact</b>: I am quite a mythology aficionado.
+- 🤩 <b>Fun fact</b>: I am quite a mythology aficionado
 - 📫 Reach me at me@itsbaishali.com
