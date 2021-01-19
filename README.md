@@ -2,7 +2,7 @@
 
 - ⚛️ Ex-CERN Experimental Physicist
 - 📈 Data Science and Machine Learning Evangelist
-- 👩🏻‍🔬 6+ Years of Data Science Research Experience on CERN LHC Detector Data
+- 👩🏻‍🔬 6+ Years of Data Science Research Experience on CERN Large Hadron Collider (LHC) Data
 - 👩🏻‍💻 Passionate Python and C/C++ Developer
 - 🔉 International Conference Speaker
 - 👩🏻‍🏫 Experienced in Teaching and Supervision
@@ -10,5 +10,5 @@
 - 🌱 Currently learning OpenCV and Transfer Learning
 - 💬 Ask me about Data Science and Machine Learning
 - ⚡ <b>Hobby</b>: Travel Vlogging ⇢ 📹 YouTube Channel: [Life Beyond Cage](https://www.youtube.com/lifebeyondcage)
-- 🤩 <b>Fun fact</b>: I am quite a mythology aficionado
+- 🤖 <b>Fun fact</b>: I am quite a mythology aficionado
 - 📫 Reach me at me@itsbaishali.com
