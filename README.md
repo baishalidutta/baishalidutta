@@ -17,7 +17,7 @@
 - 👩🏻‍💻 Passionate Python and C/C++ Developer
 - 🔉 International Conference Speaker
 - 👩🏻‍🏫 Experienced in Teaching and Supervision
-- 🚗 Currently working on self-driving autonomous car built using Raspberry Pi to follow lanes, recognize traffic signs and people on the road using TensorFlow, Keras and OpenCV. <b>Repository Coming</b> 🔜
+- 🚗 Currently designing a self-driving autonomous car using Raspberry Pi and training it to follow lanes, recognize traffic signs and people on the road using TensorFlow, Keras and OpenCV. <b>Repository Coming</b> 🔜
 - 📚 Currently learning OpenCV and Transfer Learning
 - 💬 Ask me about <b>Data Science</b> and <b>Machine Learning</b>
 - ⛰ <b>Hobby</b>: Travel Vlogging 📺 YouTube Channel: [Life Beyond Cage](https://www.youtube.com/lifebeyondcage)
