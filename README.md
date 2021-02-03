@@ -9,7 +9,7 @@
 </p>
 
 
-## Hello, Folks!! Wanna know me? 👋
+### 🌈 Hey Profile Visitor 👀 <img height="30" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" /> Wanna know me?
 
 - ⚛️ Ex-CERN Experimental Physicist
 - 📈 Data Science and Machine Learning Evangelist
