@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/76659596/105939234-12e0a480-6059-11eb-95f6-63b298f8b19a.png)
+![logo](https://user-images.githubusercontent.com/76659596/109126517-9f13e380-774d-11eb-8034-49ba189c8a6f.png)
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/baishalidutta/"><img height="30" src="https://user-images.githubusercontent.com/13380182/105938379-c34da900-6057-11eb-833e-178079a169fc.png"></a>
@@ -12,7 +12,7 @@
 ### 🌈 Hey Profile Visitor 👀 <img height="30" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" /> Wanna know me?
 
 - ⚛️ Ex-CERN Experimental Physicist
-- 📈 Data Science and Machine Learning Evangelist
+- 📈 Data Science and Machine Learning Enthusiast
 - 👩🏻‍🔬 6+ Years of Data Science Research Experience on CERN Large Hadron Collider (LHC) Data
 - 👩🏻‍💻 Passionate Python and C/C++ Developer
 - 🔉 International Conference Speaker
