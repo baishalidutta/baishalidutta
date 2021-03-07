@@ -13,7 +13,7 @@
 
 - ⚛️ Ex-CERN Experimental Physicist
 - 📈 Data Science and Machine Learning Enthusiast
-- 👩🏻‍🔬 6+ Years of Data Science Research Experience on CERN Large Hadron Collider (LHC) Data
+- 👩🏻‍🔬 6+ Years of Data Science Research Experience on <b>CERN Large Hadron Collider (LHC)</b> Data
 - 👩🏻‍💻 Passionate Python and C/C++ Developer
 - 🔉 International Conference Speaker
 - 👩🏻‍🏫 Experienced in Teaching and Supervision
