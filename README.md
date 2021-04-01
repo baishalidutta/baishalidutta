@@ -11,7 +11,7 @@
 
 ### 🌈 Hey Profile Visitor 👀 <img height="30" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" /> Wanna know me?
 
-- ⚛️ Ex-CERN Experimental Physicist
+- ⚛️ <b>Ex-CERN</b> Experimental <b>Physicist</b>
 - 📈 Data Science and Machine Learning Enthusiast
 - 👩🏻‍🔬 6+ Years of Data Science Research Experience on <b>CERN Large Hadron Collider (LHC)</b> Data
 - 👩🏻‍💻 Passionate Python and C/C++ Developer
