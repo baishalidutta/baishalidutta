@@ -13,12 +13,12 @@
 
 - ⚛️ <b>Ex-CERN</b> Experimental <b>Physicist</b>
 - 📈 Data Science and Machine Learning Enthusiast
-- 👩🏻‍🔬 6+ Years of Data Science Research Experience on <b>CERN Large Hadron Collider (LHC)</b> Data
-- 👩🏻‍💻 Passionate Python and C/C++ Developer
+- 👩🏻‍🔬 6+ Years of <b>Data Science Research</b> Experience on <b>CERN Large Hadron Collider (LHC)</b> Data
+- 👩🏻‍💻 Passionate <b>Python</b> and <b>C/C++</b> Developer
 - 🔉 International Conference Speaker
 - 👩🏻‍🏫 Experienced in Teaching and Supervision
 - 🚗 Currently designing a <b>self-driving autonomous car</b> using Raspberry Pi and training it to follow lanes, recognize traffic signs and people on the road using TensorFlow, Keras and OpenCV. <b>Repository Coming</b> 🔜
-- 📚 Currently learning <b>Computer Vision using OpenCV</b> and its relevant <b>Transfer Learning</b> approaches
+- 📚 Currently learning about different <b>Transfer Learning</b> approaches
 - 💬 Ask me about <b>Data Science</b> and <b>Machine Learning</b>
 - ⛰ <b>Hobby</b>: Travel Vlogging 📺 YouTube Channel: [Life Beyond Cage](https://www.youtube.com/lifebeyondcage)
 - 🤖 <b>Fun fact</b>: I am quite a mythology aficionado
