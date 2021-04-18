@@ -20,5 +20,5 @@
 - 🚗 Currently designing a <b>self-driving autonomous car</b> using Raspberry Pi and training it to follow lanes, recognize traffic signs and people on the road using TensorFlow, Keras and OpenCV. <b>Repository Coming</b> 🔜
 - 📚 Currently learning about different <b>Transfer Learning</b> approaches
 - 💬 Ask me about <b>Data Science</b> and <b>Machine Learning</b>
-- ⛰ <b>Hobby</b>: Travel Vlogging 📺 <b>YouTube</b> Channel: [Life Beyond Cage](https://www.youtube.com/lifebeyondcage)
-- 🤖 <b>Fun fact</b>: I am quite a mythology aficionado
+- ⛰ <b>Outdoor Hobby</b>: Travel Vlogging 📺 <b>YouTube</b> Channel: [Life Beyond Cage](https://www.youtube.com/lifebeyondcage)
+- 🤖 <b>Fun facts</b>: I am quite a mythology aficionado and an Indian classical music singer singer 4 years old
