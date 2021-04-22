@@ -21,4 +21,4 @@
 - 📚 Currently learning about different <b>Transfer Learning</b> approaches
 - 💬 Ask me about <b>Data Science</b> and <b>Machine Learning</b>
 - ⛰ <b>Outdoor Hobby</b>: Travel Vlogging 📺 <b>YouTube</b> Channel: [Life Beyond Cage](https://www.youtube.com/lifebeyondcage)
-- 🤖 <b>Fun facts</b>: I am quite a mythology aficionado and an Indian classical music singer singer 4 years old
+- 🤖 <b>Fun facts</b>: I am quite a mythology aficionado and an Indian classical music singer since 4 years old
