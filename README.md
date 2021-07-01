@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/76659596/109126517-9f13e380-774d-11eb-8034-49ba189c8a6f.png)
+![logo](https://user-images.githubusercontent.com/76659596/124061934-1923e400-da30-11eb-9841-145e4c34550b.png)
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/baishalidutta/" target="_blank">
