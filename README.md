@@ -21,13 +21,13 @@
 
 ### 🌈 Hey Profile Visitor 👀 <img height="30" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" /> Wanna know me?
 
-- 📈 <b>Data Scientist</b> focussing on <b>Natural Language Processing</b>
+- 📈 <b>Data Scientist</b>
 - ⚛️ <b>Ex-CERN</b> Experimental <b>Physicist</b>
 - 👩🏻‍🔬 6+ Years of <b>Data Science Research</b> Experience on <b>CERN Large Hadron Collider (LHC)</b> Data
 - 👩🏻‍💻 Passionate <b>Python</b> and <b>C/C++</b> Developer
 - 🔉 International Conference Speaker
 - 👩🏻‍🏫 Experienced in Teaching and Supervision
-- 📚 Passionate about different <b>Transfer Learning</b> approaches
+- 📚 Passionate about <b>Transfer Learning</b> approaches
 - 💬 Ask me about <b>Data Science</b> and <b>Machine Learning</b>
 - ⛰ <b>Outdoor Hobby</b>: Travel Vlogging 📺 <b>YouTube</b> Channel: [Life Beyond Cage](https://www.youtube.com/lifebeyondcage)
 - 🤖 <b>Fun facts</b>: I am quite a mythology aficionado and an Indian classical music singer since 4 years old
