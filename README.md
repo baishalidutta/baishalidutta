@@ -19,12 +19,12 @@
 </p>
 
 
-### 🌈 Hey Profile Visitor 👀 <img height="30" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" /> Wanna know me?
+### 🌈 Hey Profile Visitor 👀 👋🏻 Wanna know me?
 
-- 📈 <b>Data Scientist</b> focussing on <b>Natural Language Processing</b>
+- 📈 <b>Data Scientist</b>
 - ⚛️ <b>Ex-CERN</b> Experimental <b>Physicist</b>
 - 👩🏻‍🔬 6+ Years of <b>Data Science Research</b> Experience on <b>CERN Large Hadron Collider (LHC)</b> Data
-- 👩🏻‍💻 Passionate <b>Python</b> and <b>C/C++</b> Developer
+- 👩🏻‍💻 Passionate <b>Python</b> Developer
 - 🔉 International Conference Speaker
 - 👩🏻‍🏫 Experienced in Teaching and Supervision
 - 📚 Passionate about different <b>Transfer Learning</b> approaches
